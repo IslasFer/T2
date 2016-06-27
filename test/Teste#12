@@ -1,0 +1,8 @@
+Os Codigos Huffman são códigos de compressão de datos resultado de excelentes tra-
+balhos do Prof.  David A Huffman (1925-1999) .Os códigos Huffman exploram a forma
+da mensagem para dar boas taxas de compressão.  O esquema de codificação Huffman
+é um método de codificação com comprimento variável.   Isto quer dizer que o código
+para um símbolo depende da frequência de ocorrência do símbolo referido.  A codifica-
+ção de Huffman é classificada em dois grupos diferentes, Huffman estático e Huffman
+adaptável. Na codificação Huffman estática, as frequências dos símbolos são conhecidos
+antecipadamente, já se sabe qual o símbolo que irá ocorrer e quantas vezes.

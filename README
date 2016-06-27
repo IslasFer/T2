@@ -1,0 +1,6 @@
+T2
+Algoritmos e Programação III
+Fernanda Georgina Islas Martinez
+
+Implementação do algoritmo Huffman para compressão e descompressão de arquivos.
+A implementação e uma interfaz gráfica para usuario, o proyeto tem um gerador de sintaxis para o sistema Graphviz.

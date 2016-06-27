@@ -1,0 +1,6 @@
+
+digraph Grafo_Huffman{
+size="8"
+node [shape = circle];
+24 [ label =1 ];
+}

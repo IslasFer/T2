@@ -1,0 +1,18 @@
+
+digraph Grafo_Huffman{
+size="8"
+node [shape = circle];
+52 [ label =40 ];
+52 -> 47[ label = 0 ];
+52 -> 51[ label = 1 ];
+47 [ label ="1, 19 "];
+51 [ label =21 ];
+51 -> 50[ label = 0 ];
+51 -> 48[ label = 1 ];
+50 [ label =2 ];
+50 -> 46[ label = 0 ];
+50 -> 49[ label = 1 ];
+46 [ label =1 ];
+49 [ label =1 ];
+48 [ label ="2, 19 "];
+}

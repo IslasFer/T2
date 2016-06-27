@@ -1,0 +1,46 @@
+
+digraph Grafo_Huffman{
+size="8"
+node [shape = circle];
+117 [ label =20 ];
+117 -> 97[ label = 0 ];
+117 -> 116[ label = 1 ];
+97 [ label =10 ];
+116 [ label =10 ];
+116 -> 113[ label = 0 ];
+116 -> 115[ label = 1 ];
+113 [ label =4 ];
+113 -> 108[ label = 0 ];
+113 -> 112[ label = 1 ];
+108 [ label =2 ];
+108 -> 98[ label = 0 ];
+108 -> 107[ label = 1 ];
+98 [ label ="1, 1 "];
+107 [ label =1 ];
+112 [ label =2 ];
+112 -> 103[ label = 0 ];
+112 -> 102[ label = 1 ];
+103 [ label ="6, 1 "];
+102 [ label ="5, 1 "];
+115 [ label =6 ];
+115 -> 111[ label = 0 ];
+115 -> 114[ label = 1 ];
+111 [ label =2 ];
+111 -> 101[ label = 0 ];
+111 -> 99[ label = 1 ];
+101 [ label ="4, 1 "];
+99 [ label ="2, 1 "];
+114 [ label =4 ];
+114 -> 109[ label = 0 ];
+114 -> 110[ label = 1 ];
+109 [ label =2 ];
+109 -> 106[ label = 0 ];
+109 -> 100[ label = 1 ];
+106 [ label ="9, 1 "];
+100 [ label ="3, 1 "];
+110 [ label =2 ];
+110 -> 104[ label = 0 ];
+110 -> 105[ label = 1 ];
+104 [ label ="7, 1 "];
+105 [ label ="8, 1 "];
+}
